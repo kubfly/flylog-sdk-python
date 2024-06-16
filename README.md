@@ -1,2 +1,2 @@
-# flylog-sdk-python
-FlyLog SDK for Python
+# FlyLog SDK for Python
+Provides Python API for application development with FlyLog framework.
